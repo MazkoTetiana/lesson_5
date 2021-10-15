@@ -1,0 +1,10 @@
+.git{
+    border-left: 5px solid blue;
+
+}
+strong{
+    color:red;
+}
+.git:hover{
+    border-left: 5px solid limegreen;
+}
